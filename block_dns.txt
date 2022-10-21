@@ -15,4 +15,4 @@
 ||*.googleadservices.com^$important
 @@||tutous.xyz^$important
 ||xg9011.com^$important
-||yourhypejournal.com^
+||*.yourhypejournal.com^
